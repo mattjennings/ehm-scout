@@ -27,11 +27,8 @@ const client = new vision.ImageAnnotatorClient()
 const translateScout = require('../services/translate-scout')
 const fullReport = require('../../../examples/full-page-scout-report.json')
 
-const fullDescription = fullReport[0].description.replace(/\n/g, ' ')
+const fullDescription = fullReport[0].description
 console.log(translateScout.getAttributes(fullDescription))
-const smallReport = require('../../../examples/just-scout-report.json')
-
-const smallDescription = fullReport[0].description.replace(/\n/g, ' ')
-console.log(translateScout.getAttributes(smallDescription))
-
-console.log(process.env.GOOGLE_APPLICATION_CREDENTIALS)
+console.log(translateScout.getCareerRole(fullDescription))
+console.log(translateScout.getProjection(fullDescription))
+console.log(translateScout.getInjuryConcerns(fullDescription))
