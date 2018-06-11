@@ -1,0 +1,1846 @@
+{
+  "Scouting Report Meanings": [
+    {
+      "Attribute": "Aggression",
+      "Scouting Report Snippet": "Very Aggressive",
+      "Denotes:": "Aggression 18-20"
+    },
+    {
+      "Scouting Report Snippet": "Aggressive",
+      "Denotes:": "Aggressive 15-17"
+    },
+    {
+      "Scouting Report Snippet": "Relaxed",
+      "Denotes:": "Aggression 2-5"
+    },
+    {
+      "Scouting Report Snippet": "Mellow",
+      "Denotes:": "Aggression 1"
+    },
+    {
+      "Attribute": "Ambition",
+      "Scouting Report Snippet": "Ambitious",
+      "Denotes:": "Ambition 15-17"
+    },
+    {
+      "Scouting Report Snippet": "Very Ambitious",
+      "Denotes:": "Ambition 18-19"
+    },
+    {
+      "Scouting Report Snippet": "Extremely Ambitious",
+      "Denotes:": "Ambition 20"
+    },
+    {
+      "Scouting Report Snippet": "Unambitious",
+      "Denotes:": "Ambition 1-5"
+    },
+    {
+      "Attribute": "Determination",
+      "Scouting Report Snippet": "Competitive",
+      "Denotes:": "Determination 18-20"
+    },
+    {
+      "Scouting Report Snippet": "Determined",
+      "Denotes:": "Determination 14-17"
+    },
+    {
+      "Scouting Report Snippet": "Driven",
+      "Denotes:": "Determination 20 (also gets Competitive tag)"
+    },
+    {
+      "Scouting Report Snippet": "Low Determination",
+      "Denotes:": " Determination 2-5, check 1?"
+    },
+    {
+      "Attribute": "Loyalty",
+      "Scouting Report Snippet": "Extremely Loyal",
+      "Denotes:": "Loyalty 19-20"
+    },
+    {
+      "Scouting Report Snippet": "Loyal",
+      "Denotes:": "Loyalty 15-18"
+    },
+    {
+      "Scouting Report Snippet": "Independent",
+      "Denotes:": "Loyalty 3-5"
+    },
+    {
+      "Scouting Report Snippet": "Fickle",
+      "Denotes:": "Loyalty 2"
+    },
+    {
+      "Scouting Report Snippet": "Mercenary",
+      "Denotes:": "Loyalty 1"
+    },
+    {
+      "Attribute": "Pressure",
+      "Scouting Report Snippet": "Resilient",
+      "Denotes:": "Pressure 19-20"
+    },
+    {
+      "Scouting Report Snippet": "Strong Character",
+      "Denotes:": "Pressure 15-18 "
+    },
+    {
+      "Scouting Report Snippet": "Poor self-belief",
+      "Denotes:": "Pressure 1-5"
+    },
+    {
+      "Attribute": "Professionalism",
+      "Scouting Report Snippet": "Model Professional",
+      "Denotes:": "Professionalism 20"
+    },
+    {
+      "Scouting Report Snippet": "Professional",
+      "Denotes:": "Professionalism 18-19, not dour"
+    },
+    {
+      "Scouting Report Snippet": "Casual",
+      "Denotes:": "Professionalism 2-5, test 1?"
+    },
+    {
+      "Attribute": "Sportsmanship",
+      "Scouting Report Snippet": "Honest",
+      "Denotes:": "Sportmanship 20"
+    },
+    {
+      "Scouting Report Snippet": "Sporting",
+      "Denotes:": "Sportsmanship 18-19"
+    },
+    {
+      "Scouting Report Snippet": "Realist",
+      "Denotes:": "Sportsmanship 1-4"
+    },
+    {
+      "Attribute": "Unsure",
+      "Scouting Report Snippet": "Iron Willed",
+      "Denotes:": "Pressure 20 and Determination 16+"
+    },
+    {
+      "Scouting Report Snippet": "Dour",
+      "Denotes:": "Professionalism 19 and ??"
+    },
+    {
+      "Scouting Report Snippet": "Modest",
+      "Denotes:": ""
+    },
+    {
+      "Scouting Report Snippet": "Ordinary",
+      "Denotes:": ""
+    },
+    {
+      "Attribute": "Adaptability",
+      "Scouting Report Snippet": "could have trouble adapting to life in United States",
+      "Denotes:": "Adaptability 1-5"
+    },
+    {
+      "Attribute": "Ambition",
+      "Tier": "Tier 1 (13+)",
+      "Scouting Report Snippet": "a very ambitious player ",
+      "Denotes:": "Ambition 13+"
+    },
+    {
+      "Scouting Report Snippet": "a very competitive player ",
+      "Denotes:": "Ambition 13+"
+    },
+    {
+      "Scouting Report Snippet": "has a strong desire to win ",
+      "Denotes:": "Ambition 13+"
+    },
+    {
+      "Attribute": "Determination/Ambition",
+      "Tier": "Tier 1 (13+)",
+      "Scouting Report Snippet": "a strong willed competitive player ",
+      "Denotes:": "Ambition 13+ and Determination 13+"
+    },
+    {
+      "Scouting Report Snippet": "is ambitious and determined with an attitude",
+      "Denotes:": "Ambition 13+ and Determination 13+"
+    },
+    {
+      "Scouting Report Snippet": "is an ambitious and determined player",
+      "Denotes:": "Ambition 13+ and Determination 13+"
+    },
+    {
+      "Attribute": "Determination",
+      "Tier": "Tier 1 (13+)",
+      "Scouting Report Snippet": "a determined competitor ",
+      "Denotes:": "Determination 13+"
+    },
+    {
+      "Scouting Report Snippet": "a very determined player ",
+      "Denotes:": "Determination 13+"
+    },
+    {
+      "Scouting Report Snippet": "has strong determination ",
+      "Denotes:": "Determination 13+"
+    },
+    {
+      "Attribute": "Professionalism",
+      "Tier": "Tier 1 (13+)",
+      "Scouting Report Snippet": "a highly professional player",
+      "Denotes:": "Professionalism 13+"
+    },
+    {
+      "Scouting Report Snippet": "has a fantastic work ethic ",
+      "Denotes:": "Professionalism 13+"
+    },
+    {
+      "Scouting Report Snippet": "has a professional attitude ",
+      "Denotes:": "Professionalism 13+"
+    },
+    {
+      "Scouting Report Snippet": "is a consummate professional ",
+      "Denotes:": "Professionalism 13+"
+    },
+    {
+      "Scouting Report Snippet": "is a model pro ",
+      "Denotes:": "Professionalism 13+"
+    },
+    {
+      "Scouting Report Snippet": "is incredibly professional ",
+      "Denotes:": "Professionalism 13+"
+    },
+    {
+      "Tier": "Tier 3 (8+)",
+      "Scouting Report Snippet": "a complete team player",
+      "Denotes:": "Professionalism 10+"
+    },
+    {
+      "Attribute": "Sportsmanship",
+      "Tier": "Tier 1 (13+)",
+      "Scouting Report Snippet": "a class act ",
+      "Denotes:": "Sportsmanship 13+"
+    },
+    {
+      "Scouting Report Snippet": "a classy player ",
+      "Denotes:": "Sportsmanship 13+"
+    },
+    {
+      "Scouting Report Snippet": "a classy, modest player ",
+      "Denotes:": "Sportsmanship 13+"
+    },
+    {
+      "Scouting Report Snippet": "a sporting player ",
+      "Denotes:": "Sportsmanship 13+"
+    },
+    {
+      "Scouting Report Snippet": "exhibits sportsmanship and class",
+      "Denotes:": "Sportsmanship 13+"
+    },
+    {
+      "Scouting Report Snippet": "oozes class ",
+      "Denotes:": "Sportsmanship 13+"
+    },
+    {
+      "Attribute": "Aggression",
+      "Tier": "Tier 2 (11+)",
+      "Scouting Report Snippet": "a tough aggressive competitor",
+      "Denotes:": "Aggression 14+"
+    },
+    {
+      "Scouting Report Snippet": "a very aggressive, punishing player ",
+      "Denotes:": "Aggression 11+"
+    },
+    {
+      "Scouting Report Snippet": "aggressive, checks with power and tenacity ",
+      "Denotes:": "Aggression 11+"
+    },
+    {
+      "Scouting Report Snippet": "an aggressive and determined competitor ",
+      "Denotes:": "Aggression 17+"
+    },
+    {
+      "Scouting Report Snippet": "plays a highly aggressive and physical game, making sure to ﬁnish his checks ",
+      "Denotes:": "Aggression 11+"
+    },
+    {
+      "Scouting Report Snippet": "plays a very aggressive and physical game, ﬁnishing his checks with authority ",
+      "Denotes:": "Aggression 12+"
+    },
+    {
+      "Scouting Report Snippet": "plays a very aggressive game ",
+      "Denotes:": "Aggression 13+"
+    },
+    {
+      "Scouting Report Snippet": "plays aggressively, intimidates opponents",
+      "Denotes:": "Aggression 11+"
+    },
+    {
+      "Scouting Report Snippet": "plays an aggressive brand of hockey, checking with authority",
+      "Denotes:": "Aggression 11+"
+    },
+    {
+      "Scouting Report Snippet": "plays full of aggression",
+      "Denotes:": "Aggression 11+"
+    },
+    {
+      "Tier": "Tier 3 (8+)",
+      "Scouting Report Snippet": "bounces around the ice with aggression",
+      "Denotes:": "Aggression 8+"
+    },
+    {
+      "Scouting Report Snippet": "plays aggressively",
+      "Denotes:": "Aggression 8+"
+    },
+    {
+      "Scouting Report Snippet": "plays an aggressive brand of hockey ",
+      "Denotes:": "Aggression 9+"
+    },
+    {
+      "Scouting Report Snippet": "plays an aggressive game ",
+      "Denotes:": "Aggression 8+"
+    },
+    {
+      "Scouting Report Snippet": "plays an aggressive game ",
+      "Denotes:": "Aggression 8+"
+    },
+    {
+      "Scouting Report Snippet": "plays an aggressive style ",
+      "Denotes:": "Aggression 9+"
+    },
+    {
+      "Attribute": "Anticipation",
+      "Tier": "Tier 2 (11+)",
+      "Scouting Report Snippet": "anticipates the developing play extremely well ",
+      "Denotes:": "Anticipation 11+"
+    },
+    {
+      "Scouting Report Snippet": "has amazing hockey sense and reads the game magniﬁcently",
+      "Denotes:": "Anticipation 11+"
+    },
+    {
+      "Scouting Report Snippet": "has outstanding hockey sense and effectively reads the play ",
+      "Denotes:": "Anticipation 11+"
+    },
+    {
+      "Scouting Report Snippet": "is always two steps ahead of the play ",
+      "Denotes:": "Anticipation 11+"
+    },
+    {
+      "Scouting Report Snippet": "knows what's going to happen before it happens ",
+      "Denotes:": "Anticipation 12+"
+    },
+    {
+      "Scouting Report Snippet": "with great hockey smarts ",
+      "Denotes:": "Anticipation 12+"
+    },
+    {
+      "Tier": "Tier 3 (8+)",
+      "Scouting Report Snippet": "aware of what is going on around him ",
+      "Denotes:": "Anticipation 8+"
+    },
+    {
+      "Scouting Report Snippet": "effectively anticipates the play ",
+      "Denotes:": "Anticipation 8+"
+    },
+    {
+      "Scouting Report Snippet": "has good hockey sense ",
+      "Denotes:": "Anticipation 8+"
+    },
+    {
+      "Scouting Report Snippet": "has very good hockey sense ",
+      "Denotes:": "Anticipation 8+"
+    },
+    {
+      "Scouting Report Snippet": "reads the game well ",
+      "Denotes:": "Anticipation 8+"
+    },
+    {
+      "Scouting Report Snippet": "reads the play very well ",
+      "Denotes:": "Anticipation 8+"
+    },
+    {
+      "Scouting Report Snippet": "sees the game well",
+      "Denotes:": "Anticipation 8+"
+    },
+    {
+      "Tier": "Tier 4 (<7)",
+      "Scouting Report Snippet": "needs to improve his hockey sense",
+      "Denotes:": "Anticipation <7"
+    },
+    {
+      "Attribute": "Bravery",
+      "Tier": "Tier 2 (11+)",
+      "Scouting Report Snippet": "will make the ultimate sacriﬁce",
+      "Denotes:": "Bravery 11+"
+    },
+    {
+      "Tier": "Tier 3 (8+)",
+      "Scouting Report Snippet": "is willing to do whatever it takes ",
+      "Denotes:": "Bravery 8+"
+    },
+    {
+      "Scouting Report Snippet": "is willing to sacriﬁce for his team to make the play",
+      "Denotes:": "Bravery 8+"
+    },
+    {
+      "Scouting Report Snippet": "will do anything to win ",
+      "Denotes:": "Bravery 8+"
+    },
+    {
+      "Scouting Report Snippet": "will take the hit for the good of the team ",
+      "Denotes:": "Bravery 8+"
+    },
+    {
+      "Attribute": "Consistency",
+      "Tier": "Tier 1 (13+)",
+      "Scouting Report Snippet": "a very consistent player ",
+      "Denotes:": "Consistency 13+"
+    },
+    {
+      "Scouting Report Snippet": "brings his A—game every night",
+      "Denotes:": "Consistency 13+"
+    },
+    {
+      "Scouting Report Snippet": "doesn't take shifts off ",
+      "Denotes:": "Consistency 13+"
+    },
+    {
+      "Scouting Report Snippet": "has excellent focus and concentration",
+      "Denotes:": "Consistency 13+"
+    },
+    {
+      "Scouting Report Snippet": "rarely has a bad game ",
+      "Denotes:": "Consistency 13+"
+    },
+    {
+      "Tier": "Tier 4 (<8)",
+      "Scouting Report Snippet": "needs to improve his consistency",
+      "Denotes:": "Consistency <8"
+    },
+    {
+      "Attribute": "Creativity",
+      "Tier": "Tier 2 (11+)",
+      "Scouting Report Snippet": "a magician in creating plays",
+      "Denotes:": "Creativity 11+"
+    },
+    {
+      "Scouting Report Snippet": "a playmaker of the very highest calibre ",
+      "Denotes:": "Creativity 12+"
+    },
+    {
+      "Scouting Report Snippet": "has the ability to make spectacular plays ",
+      "Denotes:": "Creativity 11+"
+    },
+    {
+      "Scouting Report Snippet": "is capable of pulling off the unthinkable ",
+      "Denotes:": "Creativity 11+"
+    },
+    {
+      "Scouting Report Snippet": "makes the amazing play look easy",
+      "Denotes:": "Creativity 11+"
+    },
+    {
+      "Scouting Report Snippet": "sees plays other player can only dream of",
+      "Denotes:": "Creativity 12+"
+    },
+    {
+      "Tier": "Tier 3 (8+)",
+      "Scouting Report Snippet": "a creative playmaker ",
+      "Denotes:": "Creativity 8+"
+    },
+    {
+      "Scouting Report Snippet": "a playmaker of real ability ",
+      "Denotes:": "Creativity 8+"
+    },
+    {
+      "Scouting Report Snippet": "a slick playmaker ",
+      "Denotes:": "Creativity 10+"
+    },
+    {
+      "Scouting Report Snippet": "a top class playmaker",
+      "Denotes:": "Creativity 8+"
+    },
+    {
+      "Scouting Report Snippet": "a top drawer piaymaker ",
+      "Denotes:": "Creativity 10+"
+    },
+    {
+      "Attribute": "Decisions",
+      "Tier": "Tier 2 (11+)",
+      "Scouting Report Snippet": "displays top hockey smarts with the puck ",
+      "Denotes:": "Decisions 11+"
+    },
+    {
+      "Scouting Report Snippet": "doesn't make silly passes ",
+      "Denotes:": "Decisions 11+"
+    },
+    {
+      "Scouting Report Snippet": "is conﬁdent in possession of the puck ",
+      "Denotes:": "Decisions 11+"
+    },
+    {
+      "Scouting Report Snippet": "is prepared to wait for an option ",
+      "Denotes:": "Decisions 11+"
+    },
+    {
+      "Scouting Report Snippet": "makes good decisions with the puck ",
+      "Denotes:": "Decisions 11+"
+    },
+    {
+      "Scouting Report Snippet": "makes smart decisions with the puck ",
+      "Denotes:": "Decisions 11+"
+    },
+    {
+      "Scouting Report Snippet": "makes smart plays ",
+      "Denotes:": "Decisions 11+"
+    },
+    {
+      "Tier": "Tier 3 (8+)",
+      "Scouting Report Snippet": "displays a willing patience ",
+      "Denotes:": "Decisions 8+"
+    },
+    {
+      "Scouting Report Snippet": "has incredible patience with the puck ",
+      "Denotes:": "Decisions 8+"
+    },
+    {
+      "Scouting Report Snippet": "has patience with the puck ",
+      "Denotes:": "Decisions 8+"
+    },
+    {
+      "Scouting Report Snippet": "has the temperament to wait for the pass ",
+      "Denotes:": "Decisions 8+"
+    },
+    {
+      "Scouting Report Snippet": "will wait for the right pass ",
+      "Denotes:": "Decisions 8+"
+    },
+    {
+      "Tier": "Tier 3 (<7)",
+      "Scouting Report Snippet": "needs to improve his decision making",
+      "Denotes:": "Decisions <7"
+    },
+    {
+      "Attribute": "Flair",
+      "Tier": "Tier 2 (11+)",
+      "Scouting Report Snippet": "has a knack for pulling unexpected moves ",
+      "Denotes:": "Flair 13+"
+    },
+    {
+      "Scouting Report Snippet": "isn‘t afraid to add flair to his game",
+      "Denotes:": "Flair 11+"
+    },
+    {
+      "Scouting Report Snippet": "sometimes goes for extremely flashy moves",
+      "Denotes:": "Flair 11+"
+    },
+    {
+      "Scouting Report Snippet": "will attempt to pull off the skillful stuff",
+      "Denotes:": "Flair 11+"
+    },
+    {
+      "Attribute": "Important Matches",
+      "Tier": "Tier 1 (13+)",
+      "Scouting Report Snippet": "at home on the big stage",
+      "Denotes:": "Important Matches 13+"
+    },
+    {
+      "Scouting Report Snippet": "brings his A—game when needed",
+      "Denotes:": "Important Matches 13+"
+    },
+    {
+      "Scouting Report Snippet": "excels under pressure",
+      "Denotes:": "Important Matches 13+"
+    },
+    {
+      "Scouting Report Snippet": "produces when the heat is on ",
+      "Denotes:": "Important Matches 13+"
+    },
+    {
+      "Scouting Report Snippet": "thrives in big games ",
+      "Denotes:": "Important Matches 13+"
+    },
+    {
+      "Scouting Report Snippet": "thrives under pressure ",
+      "Denotes:": "Important Matches 13+"
+    },
+    {
+      "Tier": "Tier 3 (8+)",
+      "Scouting Report Snippet": "leaves everything on the ice",
+      "Denotes:": "Important Matches 8+"
+    },
+    {
+      "Attribute": "Influence",
+      "Tier": "Tier 1 (13+)",
+      "Scouting Report Snippet": "a leader on and off the ice ",
+      "Denotes:": "Influence 13+"
+    },
+    {
+      "Scouting Report Snippet": "has a contagious enthusiasm",
+      "Denotes:": "Influence 13+"
+    },
+    {
+      "Scouting Report Snippet": "has good leadership abilities",
+      "Denotes:": "Influence 13+"
+    },
+    {
+      "Scouting Report Snippet": "is a team leader ",
+      "Denotes:": "Influence 13+"
+    },
+    {
+      "Attribute": "Work Rate",
+      "Tier": "Tier 1 (13+)",
+      "Scouting Report Snippet": "plays with a lot of grit and heart",
+      "Denotes:": "Workrate 16+"
+    },
+    {
+      "Scouting Report Snippet": "a hard-working player",
+      "Denotes:": "Workrate 13+"
+    },
+    {
+      "Scouting Report Snippet": "gives absolutely everything ",
+      "Denotes:": "Workrate 13+"
+    },
+    {
+      "Scouting Report Snippet": "gives heart and soul on the ice ",
+      "Denotes:": "Workrate 13+"
+    },
+    {
+      "Scouting Report Snippet": "has a strong work ethic ",
+      "Denotes:": "Workrate 13+"
+    },
+    {
+      "Tier": "Tier 3 (8+)",
+      "Scouting Report Snippet": "works hard off the puck",
+      "Denotes:": "Workrate 8+"
+    },
+    {
+      "Attribute": "(Goalie) Agility",
+      "Tier": "Tier 2 (11+)",
+      "Scouting Report Snippet": "can endure offensive barrages",
+      "Denotes:": "Agility 17+"
+    },
+    {
+      "Scouting Report Snippet": "displays amazing agility",
+      "Denotes:": "Agility 17+"
+    },
+    {
+      "Scouting Report Snippet": "is a strong, agile goalie ",
+      "Denotes:": "Agility 16+"
+    },
+    {
+      "Scouting Report Snippet": "is agile, ﬂexible, and athletic ",
+      "Denotes:": "Agility 14+"
+    },
+    {
+      "Scouting Report Snippet": "is an agile goalie ",
+      "Denotes:": "Agility 15+"
+    },
+    {
+      "Scouting Report Snippet": "is extremely agile",
+      "Denotes:": "Agility 11+"
+    },
+    {
+      "Scouting Report Snippet": "is very agile",
+      "Denotes:": "Agility 11+"
+    },
+    {
+      "Scouting Report Snippet": "possesses excellent agility ",
+      "Denotes:": "Agility 13+"
+    },
+    {
+      "Tier": "Tier 3 (8+)",
+      "Scouting Report Snippet": "possesses good agility ",
+      "Denotes:": "Agility 9+"
+    },
+    {
+      "Attribute": "(Goalie) Balance",
+      "Tier": "Tier 2 (11+)",
+      "Scouting Report Snippet": "displays excellent balance ",
+      "Denotes:": "Balance 13+"
+    },
+    {
+      "Scouting Report Snippet": "maintains excellent balance ",
+      "Denotes:": "Balance 11+"
+    },
+    {
+      "Scouting Report Snippet": "possesses excellent balance",
+      "Denotes:": "Balance 12+"
+    },
+    {
+      "Scouting Report Snippet": "shows good balance ",
+      "Denotes:": "Balance 11+"
+    },
+    {
+      "Tier": "Tier 3 (8+)",
+      "Scouting Report Snippet": "displays good balance",
+      "Denotes:": "Balance 9+"
+    },
+    {
+      "Scouting Report Snippet": "has enough balance to get by",
+      "Denotes:": "Balance 8+"
+    },
+    {
+      "Scouting Report Snippet": "has good balance",
+      "Denotes:": "Balance 9+"
+    },
+    {
+      "Scouting Report Snippet": "has good balance, nothing special ",
+      "Denotes:": "Balance 9+"
+    },
+    {
+      "Scouting Report Snippet": "possesses good balance",
+      "Denotes:": "Balance 8+"
+    },
+    {
+      "Attribute": "(Goalie) Blocker",
+      "Tier": "Tier 2 (11+)",
+      "Scouting Report Snippet": "blocks the puck effectively ",
+      "Denotes:": "Blocker 12+"
+    },
+    {
+      "Scouting Report Snippet": "is talented with his blocker",
+      "Denotes:": "Blocker 11+"
+    },
+    {
+      "Scouting Report Snippet": "is very good with his blocker ",
+      "Denotes:": "Blocker 11+"
+    },
+    {
+      "Scouting Report Snippet": "is very strong with his blocker ",
+      "Denotes:": "Blocker 12+"
+    },
+    {
+      "Tier": "Tier 3 (8+)",
+      "Scouting Report Snippet": "has a good blocker",
+      "Denotes:": "Blocker 10+"
+    },
+    {
+      "Scouting Report Snippet": "is a good blocker ",
+      "Denotes:": "Blocker 9+"
+    },
+    {
+      "Scouting Report Snippet": "is good with his blocker",
+      "Denotes:": "Blocker 8+"
+    },
+    {
+      "Scouting Report Snippet": "is strong with his blocker",
+      "Denotes:": "Blocker 9+"
+    },
+    {
+      "Attribute": "(Goalie) Glove Hand",
+      "Tier": "Tier 2 (11+)",
+      "Scouting Report Snippet": "has a strong and fast glove ",
+      "Denotes:": "Glove 12+"
+    },
+    {
+      "Scouting Report Snippet": "has a very quick glove hand",
+      "Denotes:": "Glove 11+"
+    },
+    {
+      "Scouting Report Snippet": "has an extremely quick glove hand",
+      "Denotes:": "Glove 11+"
+    },
+    {
+      "Scouting Report Snippet": "possesses an extremely quick glove hand ",
+      "Denotes:": "Glove 11+"
+    },
+    {
+      "Tier": "Tier 3 (8+)",
+      "Scouting Report Snippet": "glove hand is quick ",
+      "Denotes:": "Glove 8+"
+    },
+    {
+      "Scouting Report Snippet": "has a competent glove hand ",
+      "Denotes:": "Glove 9+"
+    },
+    {
+      "Scouting Report Snippet": "has a quick glove hand ",
+      "Denotes:": "Glove 8+"
+    },
+    {
+      "Scouting Report Snippet": "has a rapid glove hand",
+      "Denotes:": "Glove 8+"
+    },
+    {
+      "Scouting Report Snippet": "has an above average glove hand",
+      "Denotes:": "Glove 8+"
+    },
+    {
+      "Attribute": "(Goalie) Positioning",
+      "Tier": "Tier 2 (11+)",
+      "Scouting Report Snippet": "challenges shooters extremely well",
+      "Denotes:": "Positioning 11+"
+    },
+    {
+      "Scouting Report Snippet": "challenges shooters well",
+      "Denotes:": "Positioning 11+"
+    },
+    {
+      "Scouting Report Snippet": "has a strong sense of angles ",
+      "Denotes:": "Positioning 12+"
+    },
+    {
+      "Scouting Report Snippet": "has great conﬁdence in challenging shooters ",
+      "Denotes:": "Positioning 11+"
+    },
+    {
+      "Scouting Report Snippet": "plays the angles extremely well",
+      "Denotes:": "Positioning 11+"
+    },
+    {
+      "Tier": "Tier 3 (8+)",
+      "Scouting Report Snippet": "is assured on angles",
+      "Denotes:": "Positioning 10+"
+    },
+    {
+      "Scouting Report Snippet": "is conﬁdent to challenge shooters ",
+      "Denotes:": "Positioning 9+"
+    },
+    {
+      "Scouting Report Snippet": "plays the angles to a good standard",
+      "Denotes:": "Positioning 8+"
+    },
+    {
+      "Scouting Report Snippet": "plays the angles well ",
+      "Denotes:": "Positioning 8+"
+    },
+    {
+      "Scouting Report Snippet": "will regularly challenge opponents to shoot",
+      "Denotes:": "Positioning 10+"
+    },
+    {
+      "Attribute": "(Goalie) Rebound",
+      "Tier": "Tier 3 (8+)",
+      "Scouting Report Snippet": "deals with rebounds",
+      "Denotes:": "Rebounds 8+"
+    },
+    {
+      "Tier": "Tier 4 (<7)",
+      "Scouting Report Snippet": "needs to improve his rebound control",
+      "Denotes:": "Rebound <7"
+    },
+    {
+      "Attribute": "(Goalie) Recovery",
+      "Tier": "Tier 2 (11+)",
+      "Scouting Report Snippet": "deals well with scrambles",
+      "Denotes:": "Recovery 11+"
+    },
+    {
+      "Scouting Report Snippet": "has exceptional recovery from scrambles ",
+      "Denotes:": "Recovery 11+"
+    },
+    {
+      "Scouting Report Snippet": "is quick to get back into position",
+      "Denotes:": "Recovery 11+"
+    },
+    {
+      "Scouting Report Snippet": "scrambles very very well",
+      "Denotes:": "Recovery 11+"
+    },
+    {
+      "Tier": "Tier 3 (8+)",
+      "Scouting Report Snippet": "battles well during scrambles",
+      "Denotes:": "Recovery 10+"
+    },
+    {
+      "Scouting Report Snippet": "has good scrambling recovery",
+      "Denotes:": "Recovery 10+"
+    },
+    {
+      "Scouting Report Snippet": "recovers well from scrambles ",
+      "Denotes:": "Recovery 8+"
+    },
+    {
+      "Scouting Report Snippet": "scrambles well",
+      "Denotes:": "Recovery 9+"
+    },
+    {
+      "Attribute": "(Goalie) Reflexes",
+      "Tier": "Tier 3 (8+)",
+      "Scouting Report Snippet": "displays good reﬂexes",
+      "Denotes:": "Reflexes 9+"
+    },
+    {
+      "Scouting Report Snippet": "has fast reﬂexes",
+      "Denotes:": "Reflexes 10+"
+    },
+    {
+      "Scouting Report Snippet": "has good reﬂexes",
+      "Denotes:": "Reflexes 9+"
+    },
+    {
+      "Scouting Report Snippet": "has quick reﬂexes",
+      "Denotes:": "Reflexes 8+"
+    },
+    {
+      "Scouting Report Snippet": "possesses lightning reﬂexes",
+      "Denotes:": "Reflexes 8+"
+    },
+    {
+      "Scouting Report Snippet": "shows good reﬂexes ",
+      "Denotes:": "Reflexes 8+"
+    },
+    {
+      "Attribute": "(Goalie) Butterfly Style",
+      "Scouting Report Snippet": "closes down on the puck with a quick butterfly",
+      "Denotes:": "Butterfly Style"
+    },
+    {
+      "Scouting Report Snippet": "is an extremely competent butterﬁy goalie ",
+      "Denotes:": "Butterfly Style"
+    },
+    {
+      "Scouting Report Snippet": "is comfortable in the butterfly style",
+      "Denotes:": "Butterfly Style"
+    },
+    {
+      "Scouting Report Snippet": "plays a butterﬂy style ",
+      "Denotes:": "Butterfly Style"
+    },
+    {
+      "Scouting Report Snippet": "plays a strong butterfly style",
+      "Denotes:": "Butterfly Style"
+    },
+    {
+      "Scouting Report Snippet": "prefers to play butterﬂy",
+      "Denotes:": "Butterfly Style"
+    },
+    {
+      "Attribute": "(Goalie) Hybrid Style",
+      "Scouting Report Snippet": "a complete hybrid goalie",
+      "Denotes:": "Hybrid Style"
+    },
+    {
+      "Scouting Report Snippet": "plays a semi-butterﬂy style",
+      "Denotes:": "Hybrid Style"
+    },
+    {
+      "Attribute": "(Goalie) Acrobatic Style",
+      "Scouting Report Snippet": "isn't orthodox, but is no less effective",
+      "Denotes:": "Acrobatic style"
+    },
+    {
+      "Attribute": "(Skater) Two-Way",
+      "Scouting Report Snippet": "a fantastic two-way talent ",
+      "Denotes:": "Offensive 10+ and Defensive 10+"
+    },
+    {
+      "Scouting Report Snippet": "brings talent at both end of the ice ",
+      "Denotes:": "Offensive 10+ and Defensive 14+"
+    },
+    {
+      "Scouting Report Snippet": "gives his all at both ends ",
+      "Denotes:": "Offensive 11+ and Defensive 10+"
+    },
+    {
+      "Scouting Report Snippet": "has good two-way instincts",
+      "Denotes:": "Offensive 11+ and Defensive 13+"
+    },
+    {
+      "Scouting Report Snippet": "is a solid two-way player ",
+      "Denotes:": "Offensive 11+ and Defensive 15+"
+    },
+    {
+      "Scouting Report Snippet": "is a strong two-way player",
+      "Denotes:": "Offensive 11+ and Defensive 10+"
+    },
+    {
+      "Scouting Report Snippet": "is a strong two-way talent",
+      "Denotes:": "Offensive 13+ and Defensive 15+"
+    },
+    {
+      "Scouting Report Snippet": "plays a gritty two-way game ",
+      "Denotes:": "Offensive 10+ and Defensive 11+"
+    },
+    {
+      "Scouting Report Snippet": "plays a solid two-way game ",
+      "Denotes:": "Offensive 10+ and Defensive 10+"
+    },
+    {
+      "Scouting Report Snippet": "plays a steady two-way game ",
+      "Denotes:": "Offensive 13+ and Defensive 14+"
+    },
+    {
+      "Scouting Report Snippet": "plays a two-way game ",
+      "Denotes:": "Offensive 11+ and Defensive 11+"
+    },
+    {
+      "Attribute": "(Skater) Defensive",
+      "Scouting Report Snippet": "a solid defensive defenseman",
+      "Denotes:": "Defensive 13+, Offensive <10"
+    },
+    {
+      "Scouting Report Snippet": "a stay at home defenseman",
+      "Denotes:": "Defensive 17+, Offensive <10"
+    },
+    {
+      "Scouting Report Snippet": "is a strong blueline presence ",
+      "Denotes:": "Defensive 17+, Offensive <10"
+    },
+    {
+      "Scouting Report Snippet": "is defense minded ",
+      "Denotes:": "Defensive 15+, Offensive <10"
+    },
+    {
+      "Scouting Report Snippet": "likes to play in a defensive role",
+      "Denotes:": "Defensive 16+, Offensive <10"
+    },
+    {
+      "Scouting Report Snippet": "plays a steady defensive game ",
+      "Denotes:": "Defensive 19+, Offensive <10"
+    },
+    {
+      "Scouting Report Snippet": "plays defense ﬁrst",
+      "Denotes:": "Defensive 12+, Offensive <10"
+    },
+    {
+      "Scouting Report Snippet": "plays defensive ﬁrst",
+      "Denotes:": "Defensive 17+, Offensive <10"
+    },
+    {
+      "Scouting Report Snippet": "plays hard defensively",
+      "Denotes:": "Defensive 16+, Offensive <10"
+    },
+    {
+      "Scouting Report Snippet": "plays with strong defensive priorities ",
+      "Denotes:": "Defensive 15+, Offensive <10"
+    },
+    {
+      "Scouting Report Snippet": "prefers a defensive role",
+      "Denotes:": "Defensive 14+, Offensive <10"
+    },
+    {
+      "Attribute": "(Skater) Offensive",
+      "Scouting Report Snippet": "always has an eye to join the rush",
+      "Denotes:": "Offensive 14+, Defensive <10"
+    },
+    {
+      "Scouting Report Snippet": "has a strong offensive upside",
+      "Denotes:": "Offensive 18+, Defensive <=10"
+    },
+    {
+      "Scouting Report Snippet": "has endless offensive talent ",
+      "Denotes:": "Offensive 17+, Defensive <=10"
+    },
+    {
+      "Scouting Report Snippet": "has great positional sense in the offensive zone ",
+      "Denotes:": "Offensive 11+"
+    },
+    {
+      "Scouting Report Snippet": "has pure offensive instincts",
+      "Denotes:": "Offensive 17+, Defensive <10"
+    },
+    {
+      "Scouting Report Snippet": "is keen to jump up on offensive plays",
+      "Denotes:": "Offensive 15+, Defensive <=11"
+    },
+    {
+      "Scouting Report Snippet": "is keen to show off his offensive skills",
+      "Denotes:": "Offensive 14+, Defensive <10"
+    },
+    {
+      "Scouting Report Snippet": "is purely an attacking player",
+      "Denotes:": "Offensive 17+, Defensive <10"
+    },
+    {
+      "Scouting Report Snippet": "is very dangerous in the offensive zone",
+      "Denotes:": "Offensive 15+"
+    },
+    {
+      "Scouting Report Snippet": "likes to drift into offensive plays ",
+      "Denotes:": "Offensive 16+, Defensive <=10"
+    },
+    {
+      "Scouting Report Snippet": "likes to show offensive ability ",
+      "Denotes:": "Offensive 16+, Defensive <10"
+    },
+    {
+      "Scouting Report Snippet": "looks to make offensive impact",
+      "Denotes:": "Offensive 16+, Defensive <=10"
+    },
+    {
+      "Scouting Report Snippet": "plays a dynamic offensive game ",
+      "Denotes:": "Offensive 17+, Defensive <10"
+    },
+    {
+      "Scouting Report Snippet": "plays a strong offensive game ",
+      "Denotes:": "Offensive 16+, Defensive <10"
+    },
+    {
+      "Scouting Report Snippet": "plays a very offensive minded game ",
+      "Denotes:": "Offensive 18+, Defensive <10"
+    },
+    {
+      "Scouting Report Snippet": "plays an offensive minded game ",
+      "Denotes:": "Offensive 16+, Defensive <10"
+    },
+    {
+      "Attribute": "Agitation",
+      "Tier": "Tier 2 (11+)",
+      "Scouting Report Snippet": "a superb agitator",
+      "Denotes:": "Agitation 11+"
+    },
+    {
+      "Scouting Report Snippet": "draw satisfaction from agitating opponents",
+      "Denotes:": "Agitation 11+"
+    },
+    {
+      "Scouting Report Snippet": "is in the opponent's face every single shift ",
+      "Denotes:": "Agitation 11+"
+    },
+    {
+      "Scouting Report Snippet": "is superb at goading opponents into making a mistake ",
+      "Denotes:": "Agitation 11+"
+    },
+    {
+      "Scouting Report Snippet": "is very good at agitating opponents ",
+      "Denotes:": "Agitation 11+"
+    },
+    {
+      "Scouting Report Snippet": "likes to wind up opponents",
+      "Denotes:": "Agitation 11+"
+    },
+    {
+      "Tier": "Tier 3 (8+)",
+      "Scouting Report Snippet": "can intimidate opponents with his play ",
+      "Denotes:": "Agitation 8+"
+    },
+    {
+      "Scouting Report Snippet": "can intimidate with the best ",
+      "Denotes:": "Agitation 8+"
+    },
+    {
+      "Scouting Report Snippet": "intimidates opponents",
+      "Denotes:": "Agitation 8+"
+    },
+    {
+      "Scouting Report Snippet": "intimidates opponents with his raw style",
+      "Denotes:": "Agitation 8+"
+    },
+    {
+      "Scouting Report Snippet": "bullies opponents ",
+      "Denotes:": "Agitation 8+"
+    },
+    {
+      "Scouting Report Snippet": "his play worries opposing teams ",
+      "Denotes:": "Agitation 8+"
+    },
+    {
+      "Attribute": "Checking",
+      "Tier": "Tier 2 (11+)",
+      "Scouting Report Snippet": "a checker who can make things happen ",
+      "Denotes:": "Checking 11+"
+    },
+    {
+      "Scouting Report Snippet": "a punishing checker ",
+      "Denotes:": "Checking 16+"
+    },
+    {
+      "Scouting Report Snippet": "a very good checker who often forces turnovers ",
+      "Denotes:": "Checking 12+"
+    },
+    {
+      "Scouting Report Snippet": "checks extremely well",
+      "Denotes:": "Checking 11+"
+    },
+    {
+      "Scouting Report Snippet": "extremely solid in checking his man",
+      "Denotes:": "Checking 12+"
+    },
+    {
+      "Scouting Report Snippet": "very consistent checker ",
+      "Denotes:": "Checking 11+"
+    },
+    {
+      "Tier": "Tier 3 (8+)",
+      "Scouting Report Snippet": "a busy checker ",
+      "Denotes:": "Checking 9+"
+    },
+    {
+      "Scouting Report Snippet": "a checker, bounces around the ice ",
+      "Denotes:": "Checking 8+"
+    },
+    {
+      "Scouting Report Snippet": "a good checker",
+      "Denotes:": "Checking 8+"
+    },
+    {
+      "Scouting Report Snippet": "a good checker and hustler ",
+      "Denotes:": "Checking 8+"
+    },
+    {
+      "Scouting Report Snippet": "a talented checker",
+      "Denotes:": "Checking 8+"
+    },
+    {
+      "Scouting Report Snippet": "an effective checker",
+      "Denotes:": "Checking 8+"
+    },
+    {
+      "Scouting Report Snippet": "checks his man weii",
+      "Denotes:": "Checking 8+"
+    },
+    {
+      "Scouting Report Snippet": "checks well",
+      "Denotes:": "Checking 8+"
+    },
+    {
+      "Scouting Report Snippet": "checks with power and intent",
+      "Denotes:": "Checking 9+"
+    },
+    {
+      "Scouting Report Snippet": "is good at checking his man ",
+      "Denotes:": "Checking 9+"
+    },
+    {
+      "Scouting Report Snippet": "opponents know when they‘ve been checked",
+      "Denotes:": "Checking 9+"
+    },
+    {
+      "Scouting Report Snippet": "will ﬁnish his checks ",
+      "Denotes:": "Checking 8+"
+    },
+    {
+      "Tier": "Tier 4 (<7)",
+      "Scouting Report Snippet": "needs to improve his defense",
+      "Denotes:": "Checking <7"
+    },
+    {
+      "Attribute": "Checking or Hitting",
+      "Scouting Report Snippet": "a fantastic forechecker ",
+      "Denotes:": "Checking 11+ or Hitting 8+"
+    },
+    {
+      "Scouting Report Snippet": "a punishing body checker",
+      "Denotes:": "Checking 11+ or Hitting 11+"
+    },
+    {
+      "Scouting Report Snippet": "forechecks very very well.",
+      "Denotes:": "Checking 11+ or Hitting 13+"
+    },
+    {
+      "Scouting Report Snippet": "makes things happen with energetic forechecking ",
+      "Denotes:": "Checking 12+"
+    },
+    {
+      "Scouting Report Snippet": "plays like a spark plug",
+      "Denotes:": "Checking 9+ or Hitting 10+"
+    },
+    {
+      "Attribute": "Hitting",
+      "Tier": "Tier 2 (11+)",
+      "Scouting Report Snippet": "an excellent body checker ",
+      "Denotes:": "Hitting 11+"
+    },
+    {
+      "Scouting Report Snippet": "an excellent body checker, making sure to ﬁnish effectively",
+      "Denotes:": "Hitting 11+"
+    },
+    {
+      "Scouting Report Snippet": "an excellent hitter",
+      "Denotes:": "Hitting 11+"
+    },
+    {
+      "Scouting Report Snippet": "ﬁnishes his checks every time ",
+      "Denotes:": "Hitting 11+"
+    },
+    {
+      "Tier": "Tier 3 (8+)",
+      "Scouting Report Snippet": "a busy player",
+      "Denotes:": "Hitting 9+"
+    },
+    {
+      "Scouting Report Snippet": "a good hitter ",
+      "Denotes:": "Hitting 8+"
+    },
+    {
+      "Scouting Report Snippet": "does the ugly work for the team ",
+      "Denotes:": "Hitting 8+"
+    },
+    {
+      "Scouting Report Snippet": "hits well",
+      "Denotes:": "Hitting 9+"
+    },
+    {
+      "Scouting Report Snippet": "plays a busy, tenacious game",
+      "Denotes:": "Hitting 8+"
+    },
+    {
+      "Scouting Report Snippet": "plays hard and checks harder ",
+      "Denotes:": "Hitting 9+"
+    },
+    {
+      "Scouting Report Snippet": "prepared to battle for the puck ",
+      "Denotes:": "Hitting 8+"
+    },
+    {
+      "Scouting Report Snippet": "works very well along the boards and in the corners ",
+      "Denotes:": "Hitting 8+"
+    },
+    {
+      "Attribute": "Deflections",
+      "Tier": "Tier 2 (11+)",
+      "Scouting Report Snippet": "battles in the trenches to score his goals",
+      "Denotes:": "Deflections 11+"
+    },
+    {
+      "Scouting Report Snippet": "is prepared to go In hard for rebounds",
+      "Denotes:": "Deflections 11+"
+    },
+    {
+      "Scouting Report Snippet": "positions himself effectively in front of the net",
+      "Denotes:": "Deflections 11+"
+    },
+    {
+      "Scouting Report Snippet": "scores goals from rebounds and deﬂections ",
+      "Denotes:": "Deflections 11+"
+    },
+    {
+      "Scouting Report Snippet": "very effective in front of the net ",
+      "Denotes:": "Deflections 11+"
+    },
+    {
+      "Attribute": "Faceoffs",
+      "Tier": "Tier 1 (13+)",
+      "Scouting Report Snippet": "a league leader on faceoffs",
+      "Denotes:": "Faceoffs 14+"
+    },
+    {
+      "Tier": "Tier 2 (11+)",
+      "Scouting Report Snippet": "a face-off specialist ",
+      "Denotes:": "Faceoffs 12+"
+    },
+    {
+      "Scouting Report Snippet": "a specialist on the draw ",
+      "Denotes:": "Faceoffs 12+"
+    },
+    {
+      "Scouting Report Snippet": "fantastic face-off winner",
+      "Denotes:": "Faceoffs 12+"
+    },
+    {
+      "Scouting Report Snippet": "wins a high percentage of face-offs ",
+      "Denotes:": "Faceoffs 12+"
+    },
+    {
+      "Tier": "Tier 3 (8+)",
+      "Scouting Report Snippet": "a face—off talent",
+      "Denotes:": "Faceoffs 9+"
+    },
+    {
+      "Scouting Report Snippet": "adept at face—offs",
+      "Denotes:": "Faceoffs 8+"
+    },
+    {
+      "Scouting Report Snippet": "good at face-offs ",
+      "Denotes:": "Faceoffs 8+"
+    },
+    {
+      "Scouting Report Snippet": "very consistent on winning face-offs ",
+      "Denotes:": "Faceoffs 10+"
+    },
+    {
+      "Scouting Report Snippet": "wins face-offs ",
+      "Denotes:": "Faceoffs 10+"
+    },
+    {
+      "Attribute": "Off the Puck",
+      "Tier": "Tier 2 (11+)",
+      "Scouting Report Snippet": "excellent at ﬁnding open ice ",
+      "Denotes:": "Off the Puck 11+"
+    },
+    {
+      "Scouting Report Snippet": "excels in ﬁnding open ice ",
+      "Denotes:": "Off the Puck 11+"
+    },
+    {
+      "Scouting Report Snippet": "ﬁnds the open ice consistently ",
+      "Denotes:": "Off the Puck 11+"
+    },
+    {
+      "Scouting Report Snippet": "opens up tremendous ice ",
+      "Denotes:": "Off the Puck 11+"
+    },
+    {
+      "Scouting Report Snippet": "superb at ﬁnding open ice ",
+      "Denotes:": "Off the Puck 11+"
+    },
+    {
+      "Tier": "Tier 3 (8+)",
+      "Scouting Report Snippet": "ﬁnds open ice ",
+      "Denotes:": "Off the Puck 8+"
+    },
+    {
+      "Scouting Report Snippet": "ﬁnds  the open ice well ",
+      "Denotes:": "Off the Puck 8+"
+    },
+    {
+      "Scouting Report Snippet": "is good at ﬁndin open ice",
+      "Denotes:": "Off the Puck 8+"
+    },
+    {
+      "Scouting Report Snippet": "is adept at ﬁnding open ice",
+      "Denotes:": "Off the Puck 8+"
+    },
+    {
+      "Scouting Report Snippet": "will hunt out the open ice ",
+      "Denotes:": "Off the Puck 8+"
+    },
+    {
+      "Scouting Report Snippet": "will hunt out the open ice consistently ",
+      "Denotes:": "Off the Puck 8+"
+    },
+    {
+      "Tier": "Tier 4 (<7)",
+      "Scouting Report Snippet": "needs to improve his movement off the puck",
+      "Denotes:": "Off the Puck <7"
+    },
+    {
+      "Attribute": "Passing",
+      "Tier": "Tier 2 (11+)",
+      "Scouting Report Snippet": "a superb passer ",
+      "Denotes:": "Passing 11+"
+    },
+    {
+      "Scouting Report Snippet": "conﬁdent with the puck, will ﬁnd the right pass",
+      "Denotes:": "Passing 11+"
+    },
+    {
+      "Scouting Report Snippet": "has very good passing skills",
+      "Denotes:": "Passing 11+"
+    },
+    {
+      "Scouting Report Snippet": "makes outstanding passing plays ",
+      "Denotes:": "Passing 11+"
+    },
+    {
+      "Scouting Report Snippet": "passes with unerring accuracy",
+      "Denotes:": "Passing 11+"
+    },
+    {
+      "Tier": "Tier 3 (8+)",
+      "Scouting Report Snippet": "a talented passer",
+      "Denotes:": "Passing 8+"
+    },
+    {
+      "Scouting Report Snippet": "consistently shows good passing skills ",
+      "Denotes:": "Passing 8+"
+    },
+    {
+      "Scouting Report Snippet": "displays good passing skills",
+      "Denotes:": "Passing 8+"
+    },
+    {
+      "Scouting Report Snippet": "has good passing skills ",
+      "Denotes:": "Passing 8+"
+    },
+    {
+      "Scouting Report Snippet": "passes very well ",
+      "Denotes:": "Passing 8+"
+    },
+    {
+      "Scouting Report Snippet": "possesses good passing skills ",
+      "Denotes:": "Passing 8+"
+    },
+    {
+      "Scouting Report Snippet": "shows good passing skills ",
+      "Denotes:": "Passing 8+"
+    },
+    {
+      "Tier": "Tier 4 (<7)",
+      "Scouting Report Snippet": "needs to improve his passing",
+      "Denotes:": "Passing <7"
+    },
+    {
+      "Attribute": "Slapshot",
+      "Tier": "Tier 2 (11+)",
+      "Scouting Report Snippet": "uses a hard slapshot",
+      "Denotes:": "Slapshot 11+"
+    },
+    {
+      "Tier": "Tier 3 (8+)",
+      "Scouting Report Snippet": "has a dangerous slapshot",
+      "Denotes:": "Slapshot 8+"
+    },
+    {
+      "Scouting Report Snippet": "has a hard slapshot ",
+      "Denotes:": "Slapshot 8+"
+    },
+    {
+      "Scouting Report Snippet": "has a strong slapshot ",
+      "Denotes:": "Slapshot 10+"
+    },
+    {
+      "Scouting Report Snippet": "possesses a hard slapshot",
+      "Denotes:": "Slapshot 9+"
+    },
+    {
+      "Tier": "Tier 4 (<7)",
+      "Scouting Report Snippet": "needs to improve his slapshot",
+      "Denotes:": "Slapshot <7"
+    },
+    {
+      "Attribute": "Slapshot and Wristshot",
+      "Tier": "Tier 2 (11+)",
+      "Scouting Report Snippet": "has a big slapshot and a laser wrister",
+      "Denotes:": "Slapshot 11+ and Wristshot 11+"
+    },
+    {
+      "Scouting Report Snippet": "is a deadly accurate shooter ",
+      "Denotes:": "Slapshot 12+ and Wristshot 13+"
+    },
+    {
+      "Scouting Report Snippet": "possesses a laser of a slapshot and wristshot ",
+      "Denotes:": "Slapshot 11+ and Wristshot 11+"
+    },
+    {
+      "Tier": "Tier 3 (8+)",
+      "Scouting Report Snippet": "has a ﬁne selection of shots",
+      "Denotes:": "Slapshot 8+ and Wristshot 8+"
+    },
+    {
+      "Scouting Report Snippet": "has a good selection of shots",
+      "Denotes:": "Slapshot 8+ and Wristshot 8+"
+    },
+    {
+      "Scouting Report Snippet": "has a varied selection of shots",
+      "Denotes:": "Slapshot 8+ and Wristshot 8+"
+    },
+    {
+      "Scouting Report Snippet": "he has a ﬁne and varied selection of shots ",
+      "Denotes:": "Slapshot 9+ and Wristshot 8+"
+    },
+    {
+      "Tier": "Tier 4 (<7)",
+      "Scouting Report Snippet": "needs to improve his shooting",
+      "Denotes:": "Slapshot <7 and Wristshot <7"
+    },
+    {
+      "Attribute": "Stickhandling",
+      "Tier": "Tier 2 (11+)",
+      "Scouting Report Snippet": "an excellent puck handler ",
+      "Denotes:": "Stickhandling 11+"
+    },
+    {
+      "Scouting Report Snippet": "controls the puck in a way unlike most others ",
+      "Denotes:": "Stickhandling 11+"
+    },
+    {
+      "Scouting Report Snippet": "has excellent puck handling skills ",
+      "Denotes:": "Stickhandling 11+"
+    },
+    {
+      "Scouting Report Snippet": "is able to keep the puck under control in nearly any situation",
+      "Denotes:": "Stickhandling 11+"
+    },
+    {
+      "Scouting Report Snippet": "who is capable of impressive puck control ",
+      "Denotes:": "Stickhandling 11+"
+    },
+    {
+      "Scouting Report Snippet": "with a knack for controlling the puck ",
+      "Denotes:": "Stickhandling 11+"
+    },
+    {
+      "Tier": "Tier 3 (8+)",
+      "Scouting Report Snippet": "controls the puck well",
+      "Denotes:": "Stickhandling 8+"
+    },
+    {
+      "Scouting Report Snippet": "good at handling the puck ",
+      "Denotes:": "Stickhandling 8+"
+    },
+    {
+      "Scouting Report Snippet": "good puck handling skills",
+      "Denotes:": "Stickhandling 8+"
+    },
+    {
+      "Scouting Report Snippet": "good stickhandiing skills",
+      "Denotes:": "Stickhandling 8+"
+    },
+    {
+      "Scouting Report Snippet": "handles the puck competently ",
+      "Denotes:": "Stickhandling 8+"
+    },
+    {
+      "Scouting Report Snippet": "plays the puck well ",
+      "Denotes:": "Stickhandling 9+"
+    },
+    {
+      "Tier": "Tier 4 (<7)",
+      "Scouting Report Snippet": "needs to improve his stickhandling",
+      "Denotes:": "Stickhandling <7"
+    },
+    {
+      "Attribute": "Wristshot",
+      "Tier": "Tier 2 (11+)",
+      "Scouting Report Snippet": "a natural scorer ",
+      "Denotes:": "Wristshot 11+"
+    },
+    {
+      "Scouting Report Snippet": "has a dangerous wristshot",
+      "Denotes:": "Wristshot 11+"
+    },
+    {
+      "Scouting Report Snippet": "has a deadly wristshot",
+      "Denotes:": "Wristshot 12+"
+    },
+    {
+      "Scouting Report Snippet": "has a laser wristshot",
+      "Denotes:": "Wristshot 11+"
+    },
+    {
+      "Scouting Report Snippet": "has a terriﬁc wristshot",
+      "Denotes:": "Wristshot 12+"
+    },
+    {
+      "Scouting Report Snippet": "possesses a laser wristshot",
+      "Denotes:": "Wristshot 11+"
+    },
+    {
+      "Tier": "Tier 3 (8+)",
+      "Scouting Report Snippet": "a talented sniper ",
+      "Denotes:": "Wristshot 8+"
+    },
+    {
+      "Scouting Report Snippet": "has a good wristshot",
+      "Denotes:": "Wristshot 8+"
+    },
+    {
+      "Scouting Report Snippet": "his wristshot is good",
+      "Denotes:": "Wristshot 8+"
+    },
+    {
+      "Scouting Report Snippet": "owns a good wristshot ",
+      "Denotes:": "Wristshot 8+"
+    },
+    {
+      "Scouting Report Snippet": "possesses a good wristshot",
+      "Denotes:": "Wristshot 8+"
+    },
+    {
+      "Tier": "Tier 4 (<7)",
+      "Scouting Report Snippet": "needs to improve his wristshot",
+      "Denotes:": "Wristshot <7"
+    },
+    {
+      "Attribute": "Speed / Acceleration",
+      "Tier": "Tier 1?",
+      "Scouting Report Snippet": "has jaw-dropping skating speed ",
+      "Denotes:": "Acceleration 12+ or Speed 12+"
+    },
+    {
+      "Scouting Report Snippet": "his skating is nothing short of phenomenal ",
+      "Denotes:": "Acceleration 13+ or Speed 13+"
+    },
+    {
+      "Scouting Report Snippet": "intimidates opponents with electric speed ",
+      "Denotes:": "Acceleration 13+ or Speed 14+"
+    },
+    {
+      "Tier": "Tier 2?",
+      "Scouting Report Snippet": "a capable skater",
+      "Denotes:": "Acceleration 7+ or Speed 8+"
+    },
+    {
+      "Scouting Report Snippet": "a decent skater",
+      "Denotes:": "Acceleration 8+ or Speed 6+"
+    },
+    {
+      "Scouting Report Snippet": "a deceptively quick skater ",
+      "Denotes:": "Acceleration 8+ or Speed 11+"
+    },
+    {
+      "Scouting Report Snippet": "a fairly good skater",
+      "Denotes:": "Acceleration 7+ or Speed 7+"
+    },
+    {
+      "Scouting Report Snippet": "a ﬁne skater ",
+      "Denotes:": "Acceleration 8+ or Speed 11+"
+    },
+    {
+      "Scouting Report Snippet": "a good skater ",
+      "Denotes:": "Acceleration 6+ or Speed 8+"
+    },
+    {
+      "Scouting Report Snippet": "a superb skater",
+      "Denotes:": "Acceleration 8+ or Speed 8+"
+    },
+    {
+      "Scouting Report Snippet": "a talented skater ",
+      "Denotes:": "Acceleration 8+ or Speed 8+"
+    },
+    {
+      "Scouting Report Snippet": "a very good skater",
+      "Denotes:": "Acceleration 8+ or Speed 8+"
+    },
+    {
+      "Scouting Report Snippet": "an above average skater ",
+      "Denotes:": "Acceleration 8+ or Speed 7+"
+    },
+    {
+      "Scouting Report Snippet": "an excellent skater ",
+      "Denotes:": "Acceleration 8+ or Speed 8+"
+    },
+    {
+      "Scouting Report Snippet": "can turn the burners on and display top speed ",
+      "Denotes:": "Acceleration 8+ or Speed 9+"
+    },
+    {
+      "Scouting Report Snippet": "gets good separation with top speed ",
+      "Denotes:": "Acceleration 10+ or Speed 11+"
+    },
+    {
+      "Scouting Report Snippet": "makes things happen with excellent speed ",
+      "Denotes:": "Acceleration 8+ or Speed 9+"
+    },
+    {
+      "Scouting Report Snippet": "possesses elite speed ",
+      "Denotes:": "Acceleration 8+ or Speed 12+"
+    },
+    {
+      "Scouting Report Snippet": "with deceptive speed",
+      "Denotes:": "Acceleration 7+ or Speed 8+"
+    },
+    {
+      "Scouting Report Snippet": "with good speed ",
+      "Denotes:": "Acceleration 8+ or Speed 8+"
+    },
+    {
+      "Scouting Report Snippet": "with good straight-away speed ",
+      "Denotes:": "Acceleration 10+ or Speed 9+"
+    },
+    {
+      "Scouting Report Snippet": "with high end speed ",
+      "Denotes:": "Acceleration 8+ or Speed 11+"
+    },
+    {
+      "Scouting Report Snippet": "with speed to burn ",
+      "Denotes:": "Acceleration 8+ or Speed 11+"
+    },
+    {
+      "Scouting Report Snippet": "with speed to spare ",
+      "Denotes:": "Acceleration 8+ or Speed 11+"
+    },
+    {
+      "Scouting Report Snippet": "with speed which deceives ",
+      "Denotes:": "Acceleration 6+ or Speed 8+"
+    },
+    {
+      "Scouting Report Snippet": "with top-end speed",
+      "Denotes:": "Acceleration 8+ or Speed 9+"
+    },
+    {
+      "Attribute": "Stamina",
+      "Tier": "Tier 1 (14+)",
+      "Scouting Report Snippet": "a tireless player ",
+      "Denotes:": "Stamina 14+"
+    },
+    {
+      "Scouting Report Snippet": "can log high minutes ",
+      "Denotes:": "Stamina 14+"
+    },
+    {
+      "Scouting Report Snippet": "has a high level of stamina",
+      "Denotes:": "Stamina 14+"
+    },
+    {
+      "Scouting Report Snippet": "has an incredibly high level of ﬁtness ",
+      "Denotes:": "Stamina 14+"
+    },
+    {
+      "Scouting Report Snippet": "has outstanding endurance",
+      "Denotes:": "Stamina 14+"
+    },
+    {
+      "Scouting Report Snippet": "has outstanding stamina ",
+      "Denotes:": "Stamina 14+"
+    },
+    {
+      "Scouting Report Snippet": "is an outstanding physical specimen ",
+      "Denotes:": "Stamina 14+"
+    },
+    {
+      "Attribute": "Strength",
+      "Tier": "Tier 2 (11+)",
+      "Scouting Report Snippet": "has impressive physical strength ",
+      "Denotes:": "Strength 11+"
+    },
+    {
+      "Scouting Report Snippet": "has scary physical strength ",
+      "Denotes:": "Strength 11+"
+    },
+    {
+      "Scouting Report Snippet": "is a very very strong hockey player ",
+      "Denotes:": "Strength 11+"
+    },
+    {
+      "Scouting Report Snippet": "is incredibly strong ",
+      "Denotes:": "Strength 11+"
+    },
+    {
+      "Scouting Report Snippet": "shows impressive physical strength",
+      "Denotes:": "Strength 11+"
+    },
+    {
+      "Tier": "Tier 3 (8+)",
+      "Scouting Report Snippet": "has a high level of physical strength ",
+      "Denotes:": "Strength 8+"
+    },
+    {
+      "Scouting Report Snippet": "has good physical strength ",
+      "Denotes:": "Strength 8+"
+    },
+    {
+      "Scouting Report Snippet": "is physically strong",
+      "Denotes:": "Strength 8+"
+    },
+    {
+      "Scouting Report Snippet": "is very strong ",
+      "Denotes:": "Strength 8+"
+    },
+    {
+      "Scouting Report Snippet": "shows good physical strength",
+      "Denotes:": "Strength 8+"
+    },
+    {
+      "Tier": "Tier 4 (<7)",
+      "Scouting Report Snippet": "needs to improve his physical strength",
+      "Denotes:": "Strength <7"
+    },
+    {
+      "Attribute": "Unsure",
+      "Scouting Report Snippet": "can sometimes try extremely artistic moves",
+      "Denotes:": "Flair/Creativity?"
+    },
+    {
+      "Scouting Report Snippet": "has superb vision",
+      "Denotes:": ""
+    },
+    {
+      "Scouting Report Snippet": "instinctively knows where the net is ",
+      "Denotes:": ""
+    },
+    {
+      "Scouting Report Snippet": "is a strong character",
+      "Denotes:": ""
+    },
+    {
+      "Scouting Report Snippet": "is an amazing physical specimen ",
+      "Denotes:": "Stamina/Strength?"
+    },
+    {
+      "Scouting Report Snippet": "is captaincy material",
+      "Denotes:": ""
+    },
+    {
+      "Scouting Report Snippet": "ls captaincy material",
+      "Denotes:": ""
+    },
+    {
+      "Scouting Report Snippet": "is happy to play the puck",
+      "Denotes:": ""
+    },
+    {
+      "Scouting Report Snippet": "plays strong all game",
+      "Denotes:": ""
+    },
+    {
+      "Scouting Report Snippet": "will give his all every shift ",
+      "Denotes:": "Ambition/Professionalism/Influence?"
+    }
+  ]
+}

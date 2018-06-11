@@ -1,0 +1,984 @@
+{
+  "reportCard": {
+    "ambition": [
+      {
+        "snippet": "extremely ambitious",
+        "range": {
+          "min": 20,
+          "max": 20
+        }
+      },
+      {
+        "snippet": "very ambitious",
+        "range": {
+          "min": 18,
+          "max": 19
+        }
+      },
+      {
+        "snippet": "ambitious",
+        "range": {
+          "min": 15,
+          "max": 17
+        }
+      },
+      {
+        "snippet": "unambitious",
+        "range": {
+          "min": 1,
+          "max": 5
+        }
+      }
+    ],
+    "loyalty": [
+      {
+        "snippet": "extremely loyal",
+        "range": {
+          "min": 19,
+          "max": 20
+        }
+      },
+      {
+        "snippet": "loyal",
+        "range": {
+          "min": 15,
+          "max": 18
+        }
+      },
+      {
+        "snippet": "independent",
+        "range": {
+          "min": 3,
+          "max": 5
+        }
+      },
+      {
+        "snippet": "fickle",
+        "range": {
+          "min": 2,
+          "max": 2
+        }
+      },
+      {
+        "snippet": "mercenary",
+        "range": {
+          "min": 1,
+          "max": 1
+        }
+      }
+    ],
+    "pressure": [
+      {
+        "snippet": "resilient",
+        "range": {
+          "min": 19,
+          "max": 20
+        }
+      },
+      {
+        "snippet": "strong character",
+        "range": {
+          "min": 15,
+          "max": 18
+        }
+      },
+      {
+        "snippet": "poor self-belief",
+        "range": {
+          "min": 1,
+          "max": 5
+        }
+      },
+      {
+        "snippet": "iron willed",
+        "range": {
+          "min": 20,
+          "max": 20
+        }
+      }
+    ],
+    "professionalism": [
+      {
+        "snippet": "model professional",
+        "range": {
+          "min": 20,
+          "max": 20
+        }
+      },
+      {
+        "snippet": "professional",
+        "range": {
+          "min": 18,
+          "max": 19
+        }
+      },
+      {
+        "snippet": "casual",
+        "range": {
+          "min": 2,
+          "max": 5
+        }
+      }
+    ],
+    "sportsmanship": [
+      {
+        "snippet": "honest",
+        "range": {
+          "min": 20,
+          "max": 20
+        }
+      },
+      {
+        "snippet": "sporting",
+        "range": {
+          "min": 18,
+          "max": 19
+        }
+      },
+      {
+        "snippet": "realist",
+        "range": {
+          "min": 1,
+          "max": 4
+        }
+      }
+    ],
+    "determination": [
+      {
+        "snippet": "iron willed",
+        "range": {
+          "min": 16
+        }
+      }
+    ]
+  },
+  "scoutReport": {
+    "adaptability": [
+      {
+        "snippet": "could have trouble adapting to life in United States",
+        "range": {
+          "min": 1,
+          "max": 5
+        }
+      }
+    ],
+    "ambition": [
+      {
+        "snippet": "a very ambitious player",
+        "range": {
+          "min": 13
+        }
+      },
+      {
+        "snippet": "a very competitive player",
+        "range": {
+          "min": 13
+        }
+      },
+      {
+        "snippet": "has a strong desire to win",
+        "range": {
+          "min": 13
+        }
+      },
+      {
+        "snippet": "a strong willed competitive player",
+        "range": {
+          "min": 13
+        }
+      },
+      {
+        "snippet": "is ambitious and determined with an attitude",
+        "range": {
+          "min": 13
+        }
+      },
+      {
+        "snippet": "is an ambitious and determined player",
+        "range": {
+          "min": 13
+        }
+      }
+    ],
+    "determination": [
+      {
+        "snippet": "a strong willed competitive player",
+        "range": {
+          "min": 13
+        }
+      },
+      {
+        "snippet": "is ambitious and determined with an attitude",
+        "range": {
+          "min": 13
+        }
+      },
+      {
+        "snippet": "is an ambitious and determined player",
+        "range": {
+          "min": 13
+        }
+      }
+    ],
+    "professionalism": [
+      {
+        "snippet": "a highly professional player",
+        "range": {
+          "min": 13
+        }
+      },
+      {
+        "snippet": "has a fantastic work ethic",
+        "range": {
+          "min": 13
+        }
+      },
+      {
+        "snippet": "has a professional attitude",
+        "range": {
+          "min": 13
+        }
+      },
+      {
+        "snippet": "is a consummate professional",
+        "range": {
+          "min": 13
+        }
+      },
+      {
+        "snippet": "is a model pro",
+        "range": {
+          "min": 13
+        }
+      },
+      {
+        "snippet": "is incredibly professional",
+        "range": {
+          "min": 13
+        }
+      },
+      {
+        "snippet": "a complete team player",
+        "range": {
+          "min": 10
+        }
+      }
+    ],
+    "sportsmanship": [
+      {
+        "snippet": "a class act",
+        "range": {
+          "min": 13
+        }
+      },
+      {
+        "snippet": "a classy player",
+        "range": {
+          "min": 13
+        }
+      },
+      {
+        "snippet": "a classy, modest player",
+        "range": {
+          "min": 13
+        }
+      },
+      {
+        "snippet": "a sporting player",
+        "range": {
+          "min": 13
+        }
+      },
+      {
+        "snippet": "a sporting playe",
+        "range": {
+          "min": 13
+        }
+      },
+      {
+        "snippet": "exhibits sportsmanship and class",
+        "range": {
+          "min": 13
+        }
+      },
+      {
+        "snippet": "oozes class",
+        "range": {
+          "min": 13
+        }
+      }
+    ],
+    "consistency": [
+      {
+        "snippet": "a very consistent player",
+        "range": {
+          "min": 13
+        }
+      },
+      {
+        "snippet": "brings his A—game every nigh",
+        "range": {
+          "min": 13
+        }
+      },
+      {
+        "snippet": "doesn't take shifts off",
+        "range": {
+          "min": 13
+        }
+      },
+      {
+        "snippet": "has excellent focus and concentration",
+        "range": {
+          "min": 13
+        }
+      },
+      {
+        "snippet": "rarely has a bad game",
+        "range": {
+          "min": 13
+        }
+      }
+    ],
+    "decisions": [
+      {
+        "snippet": "displays top hockey smarts with the puck",
+        "range": {
+          "min": 11
+        }
+      },
+      {
+        "snippet": "doesn't make silly passes",
+        "range": {
+          "min": 11
+        }
+      },
+      {
+        "snippet": "is confident in possession of the puck",
+        "range": {
+          "min": 11
+        }
+      },
+      {
+        "snippet": "is prepared to wait for an option",
+        "range": {
+          "min": 11
+        }
+      },
+      {
+        "snippet": "makes good decisions with the puck",
+        "range": {
+          "min": 11
+        }
+      },
+      {
+        "snippet": "makes smart decisions with the puck",
+        "range": {
+          "min": 11
+        }
+      },
+      {
+        "snippet": "makes smart plays",
+        "range": {
+          "min": 11
+        }
+      },
+      {
+        "snippet": "displays a willing patience",
+        "range": {
+          "min": 8
+        }
+      },
+      {
+        "snippet": "has incredible patience with the puck",
+        "range": {
+          "min": 8
+        }
+      },
+      {
+        "snippet": "has patience with the puck",
+        "range": {
+          "min": 8
+        }
+      },
+      {
+        "snippet": "has the temperament to wait for the pass",
+        "range": {
+          "min": 8
+        }
+      },
+      {
+        "snippet": "will wait for the right pass",
+        "range": {
+          "min": 8
+        }
+      }
+    ],
+    "important matches": [
+      {
+        "snippet": "at home on the big stage",
+        "range": {
+          "min": 13
+        }
+      },
+      {
+        "snippet": "brings his A—game when needed",
+        "range": {
+          "min": 13
+        }
+      },
+      {
+        "snippet": "excels under pressure",
+        "range": {
+          "min": 13
+        }
+      },
+      {
+        "snippet": "produces when the heat is on",
+        "range": {
+          "min": 13
+        }
+      },
+      {
+        "snippet": "thrives in big games",
+        "range": {
+          "min": 13
+        }
+      },
+      {
+        "snippet": "thrives under pressure",
+        "range": {
+          "min": 13
+        }
+      },
+      {
+        "snippet": "leaves everything on the ice",
+        "range": {
+          "min": 8
+        }
+      }
+    ],
+    "defensive": [
+      {
+        "snippet": "a fantastic two-way talent",
+        "range": {
+          "min": 10
+        }
+      },
+      {
+        "snippet": "brings talent at both end of the ice",
+        "range": {
+          "min": 14
+        }
+      },
+      {
+        "snippet": "gives his all at both ends",
+        "range": {
+          "min": 10
+        }
+      },
+      {
+        "snippet": "has good two-way instinct",
+        "range": {
+          "min": 13
+        }
+      },
+      {
+        "snippet": "is a solid two-way player",
+        "range": {
+          "min": 15
+        }
+      },
+      {
+        "snippet": "is a strong two-way player",
+        "range": {
+          "min": 10
+        }
+      },
+      {
+        "snippet": "is a strong two-way talent",
+        "range": {
+          "min": 15
+        }
+      },
+      {
+        "snippet": "plays a gritty two-way game",
+        "range": {
+          "min": 11
+        }
+      },
+      {
+        "snippet": "plays a solid two-way game",
+        "range": {
+          "min": 10
+        }
+      },
+      {
+        "snippet": "plays a steady two-way game",
+        "range": {
+          "min": 14
+        }
+      },
+      {
+        "snippet": "plays a two-way game",
+        "range": {
+          "min": 11
+        }
+      },
+      {
+        "snippet": "always has an eye to join the rush",
+        "range": {
+          "max": 9
+        }
+      },
+      {
+        "snippet": "has a strong offensive upside",
+        "range": {
+          "max": 10
+        }
+      },
+      {
+        "snippet": "has endless offensive talent",
+        "range": {
+          "max": 10
+        }
+      },
+      {
+        "snippet": "has pure offensive instincts",
+        "range": {
+          "max": 9
+        }
+      },
+      {
+        "snippet": "is keen to jump up on offensive plays",
+        "range": {
+          "max": 11
+        }
+      },
+      {
+        "snippet": "is keen to show off his offensive skills",
+        "range": {
+          "max": 9
+        }
+      },
+      {
+        "snippet": "is purely an attacking player",
+        "range": {
+          "max": 9
+        }
+      },
+      {
+        "snippet": "likes to drift into offensive plays",
+        "range": {
+          "max": 9
+        }
+      },
+      {
+        "snippet": "likes to show offensive ability",
+        "range": {
+          "max": 9
+        }
+      },
+      {
+        "snippet": "looks to make offensive impact",
+        "range": {
+          "max": 10
+        }
+      },
+      {
+        "snippet": "plays a dynamic offensive game",
+        "range": {
+          "max": 9
+        }
+      },
+      {
+        "snippet": "plays a strong offensive game",
+        "range": {
+          "max": 9
+        }
+      },
+      {
+        "snippet": "plays a very offensive minded game",
+        "range": {
+          "max": 9
+        }
+      },
+      {
+        "snippet": "plays an offensive minded gam",
+        "range": {
+          "max": 9
+        }
+      },
+      {
+        "snippet": "a solid defensive defenseman",
+        "range": {
+          "min": 13
+        }
+      },
+      {
+        "snippet": "a stay at home defenseman",
+        "range": {
+          "min": 17
+        }
+      },
+      {
+        "snippet": "is a strong blueline presence",
+        "range": {
+          "min": 17
+        }
+      },
+      {
+        "snippet": "is defense minded",
+        "range": {
+          "min": 15
+        }
+      },
+      {
+        "snippet": "likes to play in a defensive role",
+        "range": {
+          "min": 16
+        }
+      },
+      {
+        "snippet": "plays a steady defensive game",
+        "range": {
+          "min": 19
+        }
+      },
+      {
+        "snippet": "plays defense first",
+        "range": {
+          "min": 12
+        }
+      },
+      {
+        "snippet": "plays defensive first",
+        "range": {
+          "min": 17
+        }
+      },
+      {
+        "snippet": "plays hard defensively",
+        "range": {
+          "min": 16
+        }
+      },
+      {
+        "snippet": "plays with strong defensive priorities",
+        "range": {
+          "min": 15
+        }
+      },
+      {
+        "snippet": "prefers a defensive role",
+        "range": {
+          "min": 14
+        }
+      }
+    ],
+    "offensive": [
+      {
+        "snippet": "a fantastic two-way talent",
+        "range": {
+          "min": 10
+        }
+      },
+      {
+        "snippet": "brings talent at both end of the ice",
+        "range": {
+          "min": 10
+        }
+      },
+      {
+        "snippet": "gives his all at both ends",
+        "range": {
+          "min": 11
+        }
+      },
+      {
+        "snippet": "has good two-way instinct",
+        "range": {
+          "min": 11
+        }
+      },
+      {
+        "snippet": "is a solid two-way player",
+        "range": {
+          "min": 11
+        }
+      },
+      {
+        "snippet": "is a strong two-way player",
+        "range": {
+          "min": 11
+        }
+      },
+      {
+        "snippet": "is a strong two-way talent",
+        "range": {
+          "min": 13
+        }
+      },
+      {
+        "snippet": "plays a gritty two-way game",
+        "range": {
+          "min": 10
+        }
+      },
+      {
+        "snippet": "plays a solid two-way game",
+        "range": {
+          "min": 10
+        }
+      },
+      {
+        "snippet": "plays a steady two-way game",
+        "range": {
+          "min": 13
+        }
+      },
+      {
+        "snippet": "plays a two-way game",
+        "range": {
+          "min": 11
+        }
+      },
+      {
+        "snippet": "always has an eye to join the rush",
+        "range": {
+          "min": 14
+        }
+      },
+      {
+        "snippet": "has a strong offensive upside",
+        "range": {
+          "min": 18
+        }
+      },
+      {
+        "snippet": "has endless offensive talent",
+        "range": {
+          "min": 17
+        }
+      },
+      {
+        "snippet": "has great positional sense in the offensive zone",
+        "range": {
+          "min": 11
+        }
+      },
+      {
+        "snippet": "has pure offensive instincts",
+        "range": {
+          "min": 17
+        }
+      },
+      {
+        "snippet": "is keen to jump up on offensive plays",
+        "range": {
+          "min": 15
+        }
+      },
+      {
+        "snippet": "is keen to show off his offensive skills",
+        "range": {
+          "min": 14
+        }
+      },
+      {
+        "snippet": "is purely an attacking player",
+        "range": {
+          "min": 17
+        }
+      },
+      {
+        "snippet": "is very dangerous in the offensive zone",
+        "range": {
+          "min": 15
+        }
+      },
+      {
+        "snippet": "likes to drift into offensive plays",
+        "range": {
+          "min": 16
+        }
+      },
+      {
+        "snippet": "likes to show offensive ability",
+        "range": {
+          "min": 16
+        }
+      },
+      {
+        "snippet": "looks to make offensive impact",
+        "range": {
+          "min": 16
+        }
+      },
+      {
+        "snippet": "plays a dynamic offensive game",
+        "range": {
+          "min": 17
+        }
+      },
+      {
+        "snippet": "plays a strong offensive game",
+        "range": {
+          "min": 16
+        }
+      },
+      {
+        "snippet": "plays a very offensive minded game",
+        "range": {
+          "min": 18
+        }
+      },
+      {
+        "snippet": "plays an offensive minded gam",
+        "range": {
+          "min": 16
+        }
+      },
+      {
+        "snippet": "a solid defensive defenseman",
+        "range": {
+          "max": 9
+        }
+      },
+      {
+        "snippet": "a stay at home defenseman",
+        "range": {
+          "max": 9
+        }
+      },
+      {
+        "snippet": "is a strong blueline presence",
+        "range": {
+          "max": 9
+        }
+      },
+      {
+        "snippet": "is defense minded",
+        "range": {
+          "max": 9
+        }
+      },
+      {
+        "snippet": "likes to play in a defensive role",
+        "range": {
+          "max": 9
+        }
+      },
+      {
+        "snippet": "plays a steady defensive game",
+        "range": {
+          "max": 9
+        }
+      },
+      {
+        "snippet": "plays defense first",
+        "range": {
+          "max": 9
+        }
+      },
+      {
+        "snippet": "plays defensive first",
+        "range": {
+          "max": 9
+        }
+      },
+      {
+        "snippet": "plays hard defensively",
+        "range": {
+          "max": 9
+        }
+      },
+      {
+        "snippet": "plays with strong defensive priorities",
+        "range": {
+          "max": 9
+        }
+      },
+      {
+        "snippet": "prefers a defensive role",
+        "range": {
+          "max": 9
+        }
+      }
+    ],
+    "agitation": [
+      {
+        "snippet": "a superb agitator",
+        "range": {
+          "min": 11
+        }
+      },
+      {
+        "snippet": "draw satisfaction from agitating opponents",
+        "range": {
+          "min": 11
+        }
+      },
+      {
+        "snippet": "is in the opponent's face every single shift",
+        "range": {
+          "min": 11
+        }
+      },
+      {
+        "snippet": "is superb at goading opponents into making a mistake",
+        "range": {
+          "min": 11
+        }
+      },
+      {
+        "snippet": "is very good at agitating opponents",
+        "range": {
+          "min": 11
+        }
+      },
+      {
+        "snippet": "likes to wind up opponents",
+        "range": {
+          "min": 11
+        }
+      },
+      {
+        "snippet": "can intimidate opponents with his play",
+        "range": {
+          "min": 8
+        }
+      },
+      {
+        "snippet": "can intimidate with the best",
+        "range": {
+          "min": 8
+        }
+      },
+      {
+        "snippet": "intimidates opponents",
+        "range": {
+          "min": 8
+        }
+      },
+      {
+        "snippet": "intimidates opponents with his raw style",
+        "range": {
+          "min": 8
+        }
+      },
+      {
+        "snippet": "bullies opponents",
+        "range": {
+          "min": 8
+        }
+      },
+      {
+        "snippet": "his play worries opposing teams",
+        "range": {
+          "min": 8
+        }
+      }
+    ]
+  }
+}

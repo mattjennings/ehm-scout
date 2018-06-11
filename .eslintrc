@@ -1,0 +1,52 @@
+{
+  "plugins": ["react", "prettier", "json"],
+  "extends": ["eslint:recommended", "plugin:react/recommended", "airbnb-base", "prettier"],
+  "parserOptions": {
+    "ecmaVersion": 2017,
+    "ecmaFeatures": {
+      "jsx": true
+    },
+    "sourceType": "module"
+  },
+  "env": {
+    "browser": true,
+    "node": true,
+    "es6": true,
+    "jest": true
+  },
+  "rules": {
+    "arrow-body-style": "warn",
+    "no-extra-semi": "warn",
+    "semi": "off",
+    "comma-dangle": "off",
+    "eol-last": "off",
+    "arrow-parens": "off",
+    "react/prop-types": "off",
+    "no-use-before-define": "off",
+    "no-return-assign": "off",
+    "no-underscore-dangle": "off",
+    "function-paren-newline": "off",
+    "class-methods-use-this": "off",
+    "quotes": [2, "single", "avoid-escape"],
+    "no-debugger": "off",
+    "no-param-reassign": "off",
+    "import/no-extraneous-dependencies": "off",
+    "no-console": "off",
+    "no-control-regex": "off",
+    "no-unused-vars": "off",
+    "global-require": "off",
+
+    "prettier/prettier": ["error", {
+      "singleQuote": true,
+      "semi": false
+    }]
+  },
+  "settings": {
+    "import/resolver": {
+      "babel-module": {
+        "extensions": [".js", ".jsx"]
+      }
+    }
+  },
+  "parser": "babel-eslint"
+}
