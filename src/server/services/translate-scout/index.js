@@ -1,6 +1,10 @@
 const definitions = require('./definitions.json')
 const _ = require('lodash')
 const util = require('./util')
+
+const getName = description => {
+  const name = util.getTextBeforeNextLineBreak(description, 'Actions\nROS 2. ')
+}
 /**
  * Translates scout report snippets into attribute data
  */
@@ -34,9 +38,13 @@ const getProjection = description =>
 const getInjuryConcerns = description =>
   util.getTextBeforeNextLineBreak(description, 'Injury Concerns\n')
 
+const getScout = description =>
+  util.getTextBeforeNextLineBreak(description, 'Scout Report - from ')
+
 module.exports = {
   getAttributes,
   getCareerRole,
   getProjection,
-  getInjuryConcerns
+  getInjuryConcerns,
+  getScout
 }

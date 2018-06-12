@@ -2,12 +2,11 @@ import Meta from './Meta'
 
 const layoutStyle = {
   margin: 20,
-  padding: 20,
-  border: '1px solid #DDD'
+  padding: 20
 }
 
 const Layout = props => (
-  <div style={layoutStyle}>
+  <div className={props.className}>
     <Meta />
     {props.children}
   </div>
