@@ -39,7 +39,8 @@ const getInjuryConcerns = description =>
   util.getTextBeforeNextLineBreak(description, 'Injury Concerns\n')
 
 const getScout = description =>
-  util.getTextBeforeNextLineBreak(description, 'Scout Report - from ')
+  util.getTextBeforeNextLineBreak(description, 'Scout Report - from ') ||
+  util.getTextBeforeNextLineBreak(description, 'Scout Report from ')
 
 module.exports = {
   getAttributes,
