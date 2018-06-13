@@ -3,7 +3,7 @@ const _ = require('lodash')
 const util = require('./util')
 
 const getName = description => {
-  const name = util.getTextBeforeNextLineBreak(description, 'Actions\nROS 2. ')
+  const name = util.getSubstringBeforeLineBreak(description, 'Actions\nROS 2. ')
 }
 /**
  * Translates scout report snippets into attribute data
@@ -30,17 +30,19 @@ const getAttributes = description => {
 }
 
 const getCareerRole = description =>
-  util.getTextBeforeNextLineBreak(description, 'Projected career role\n')
+  util.getSubstringBeforeLineBreak(description, 'Projected career role\n')
 
 const getProjection = description =>
-  util.getTextBeforeNextLineBreak(description, 'Player Projection\n')
+  util.getSubstringBeforeLineBreak(description, 'Player Projection\n')
 
 const getInjuryConcerns = description =>
-  util.getTextBeforeNextLineBreak(description, 'Injury Concerns\n')
+  util.getSubstringBeforeLineBreak(description, 'Injury Concerns\n')
 
 const getScout = description =>
-  util.getTextBeforeNextLineBreak(description, 'Scout Report - from ') ||
-  util.getTextBeforeNextLineBreak(description, 'Scout Report from ')
+  util.getSubstringBeforeLineBreak(description, [
+    'Scout Report - from ',
+    'Scout Report from'
+  ])
 
 module.exports = {
   getAttributes,
