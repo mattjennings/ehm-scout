@@ -52,11 +52,20 @@ export default class IndexPage extends React.Component {
 
   renderAttributes = () => {
     if (this.state.attributes) {
-      const items = map(this.state.attributes, (value, key) => (
-        <li key={key}>
-          {key}: {value.min ? `< ${value.min}` : `>= ${value.max}`}
-        </li>
-      ))
+      const items = map(this.state.attributes, (value, key) => {
+        if (value.min && value.max) {
+          return (
+            <li key={key}>
+              {key}: {`${value.min} - ${value.max}`}
+            </li>
+          )
+        }
+        return (
+          <li key={key}>
+            {key}: {value.min ? `>= ${value.min}` : `<= ${value.max}`}
+          </li>
+        )
+      })
       return <ul>{items}</ul>
     }
 
